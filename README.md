@@ -13,6 +13,10 @@ cymruwhois [pip install cymruwhois]
 requests [pip install requests]
 ```
 
+
+# Screenshot
+![alt text](https://github.com/kl3sshydra/mcServerFinder/raw/main/image_2022-01-10_15-44-05.png)
+
 # Usage
 python3 main.py [options]
 to list avaiable options, just run the file without arguments or with "help"
